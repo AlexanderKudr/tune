@@ -1,4 +1,6 @@
-# Tune
+# Tune-legacy
+
+> No longer developed. Moving towards self-hosting music.
 
 ![tune_home](https://github.com/user-attachments/assets/e07b6335-5cfb-4214-8631-fed35046bf85)
 ![tune_music](https://github.com/user-attachments/assets/fdc656ec-0f52-44f4-a622-ecacbce8907e)
